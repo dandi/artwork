@@ -7,6 +7,9 @@
    viewBox="0 0 502.70832 185.20834"
    height="700"
    width="1900"
+   inkscape:export-filename="dandi-banner.png"
+   inkscape:export-xdpi="151.57895"
+   inkscape:export-ydpi="151.57895"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -60,15 +63,15 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1440"
-     inkscape:window-width="2560"
+     inkscape:window-height="463"
+     inkscape:window-width="1272"
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="462.85714"
-     inkscape:cx="1310"
+     inkscape:cy="462.14286"
+     inkscape:cx="1311.4286"
      inkscape:zoom="0.7"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -170,8 +173,10 @@
        style="font-style:normal;font-weight:normal;font-size:131.106px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect82);display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.11301258,0,0,0.11301258,71.550259,16.572361)"><tspan
          x="2133.6699"
-         y="1400.295"
-         id="tspan4263">https://dandiarchive.org</tspan></text>
+         y="1402.3912"
+         id="tspan1210"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011444092"
+           id="tspan1208">https://dandiarchive.org</tspan></tspan></text>
     <path
        d="m 314.12733,161.13914 v -43.6044 H 328.177 c 3.85106,0 7.32149,0.87321 10.38891,2.61962 3.07861,1.74641 5.47433,4.20931 7.19836,7.39987 1.72402,3.19056 2.59722,6.75058 2.61961,10.70242 v 2.00389 c 0,3.99661 -0.83961,7.56781 -2.53005,10.73597 -1.69044,3.16818 -4.06377,5.64227 -7.1312,7.42226 -3.06741,1.79119 -6.48186,2.68679 -10.25457,2.70918 h -14.34073 z m 10.51206,-35.48806 v 27.4053 h 3.64955 c 3.01145,0 5.3288,-1.07471 6.95207,-3.22414 1.61207,-2.14943 2.42931,-5.33999 2.42931,-9.5717 v -1.89194 c 0,-4.20932 -0.80604,-7.38871 -2.42931,-9.52696 -1.61208,-2.13823 -3.97421,-3.20175 -7.06401,-3.20175 h -3.53761 z m 53.90369,27.33814 h -14.4079 l -2.51886,8.14992 h -11.22854 l 15.98639,-43.6044 h 9.88514 l 16.12073,43.6044 h -11.29571 z m -11.88904,-8.11635 h 9.37018 l -4.70188,-15.12444 z m 65.31135,16.26627 h -10.45608 l -15.44904,-27.1366 v 27.1366 h -10.51206 v -43.6044 h 10.51206 l 15.42664,27.13663 v -27.13663 h 10.47848 z m 6.6498,0 v -43.6044 h 14.04967 c 3.85106,0 7.32149,0.87321 10.38891,2.61962 3.06742,1.74641 5.47433,4.20931 7.19835,7.39987 1.72403,3.17937 2.59724,6.75058 2.61962,10.70242 v 2.00389 c 0,3.99661 -0.83962,7.56781 -2.53006,10.73597 -1.69044,3.16818 -4.06376,5.64227 -7.13118,7.42226 -3.06742,1.79119 -6.48188,2.68679 -10.25458,2.70918 h -14.34073 z m 10.51206,-35.48806 v 27.4053 h 3.64955 c 3.01145,0 5.3288,-1.07471 6.95207,-3.22414 1.62326,-2.14943 2.4293,-5.33999 2.4293,-9.5717 v -1.89194 c 0,-4.20932 -0.80604,-7.38871 -2.4293,-9.52696 -1.62327,-2.13823 -3.9742,-3.19056 -7.07521,-3.19056 z m 40.33541,35.48806 h -10.47847 v -43.6044 h 10.47847 z"
        class="st4"
