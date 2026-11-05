@@ -1,3 +1,11 @@
 Files: pics/dandi-logo.*
 Copyright: 2018 kitware
 License: CC BY 3.0
+
+Files: pics/bids-dandisets-*
+Copyright: 2018 kitware (DANDI logo); BIDS contributors (BIDS logo); DataLad developers (DataLad logo)
+License: CC BY 4.0
+Comment: Logo for https://github.com/bids-dandisets, derived from
+ pics/dandi-datasets-logo-square.svg (DANDI logo, CC BY 3.0, with the DataLad
+ logo on the hat) and the BIDS logo emblem (CC BY 4.0) from
+ https://github.com/bids-standard/bids-specification/tree/master/BIDS_logo
